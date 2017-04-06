@@ -1,0 +1,18 @@
+c:\users\avell g1511 fire\documents\visual studio 2013\Projects\VendasBSI1\VendasBSI1\bin\Debug\VendasBSI1.exe.config
+c:\users\avell g1511 fire\documents\visual studio 2013\Projects\VendasBSI1\VendasBSI1\bin\Debug\VendasBSI1.exe
+c:\users\avell g1511 fire\documents\visual studio 2013\Projects\VendasBSI1\VendasBSI1\bin\Debug\VendasBSI1.pdb
+c:\users\avell g1511 fire\documents\visual studio 2013\Projects\VendasBSI1\VendasBSI1\obj\Debug\VendasBSI1.csprojResolveAssemblyReference.cache
+c:\users\avell g1511 fire\documents\visual studio 2013\Projects\VendasBSI1\VendasBSI1\obj\Debug\VendasBSI1.exe
+c:\users\avell g1511 fire\documents\visual studio 2013\Projects\VendasBSI1\VendasBSI1\obj\Debug\VendasBSI1.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\VendasBSI1\VendasBSI1\bin\Debug\VendasBSI1.exe.config
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\VendasBSI1\VendasBSI1\obj\Debug\VendasBSI1.exe
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\VendasBSI1\VendasBSI1\obj\Debug\VendasBSI1.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\VendasBSI1\VendasBSI1\bin\Debug\VendasBSI1.exe
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\VendasBSI1\VendasBSI1\bin\Debug\VendasBSI1.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\VendasBSI1\VendasBSI1\obj\Debug\VendasBSI1.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\VendasBSI1 (1)\VendasBSI1\VendasBSI1\bin\Debug\VendasBSI1.exe.config
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\VendasBSI1 (1)\VendasBSI1\VendasBSI1\obj\Debug\VendasBSI1.exe
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\VendasBSI1 (1)\VendasBSI1\VendasBSI1\obj\Debug\VendasBSI1.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\VendasBSI1 (1)\VendasBSI1\VendasBSI1\bin\Debug\VendasBSI1.exe
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\VendasBSI1 (1)\VendasBSI1\VendasBSI1\bin\Debug\VendasBSI1.pdb
+C:\Users\Aluno\Documents\Visual Studio 2015\Projects\VendasBSI1 (1)\VendasBSI1\VendasBSI1\obj\Debug\VendasBSI1.csprojResolveAssemblyReference.cache
